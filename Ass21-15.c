@@ -11,7 +11,7 @@ int main()
 {
  int p[2];
  int n,i;
- char *m1="Atharav Nijampurkar\n";
+ char *m1="SK\n";
  char *m2="photographer\n";
  char *m3="pune\n";
  char s[50];
