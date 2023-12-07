@@ -15,7 +15,7 @@ int main()
 	
 	fd2=dup(1);
 	dup2(fd1,1);
-	printf("\n Atharav Nijampurkar");
+	printf("\n S K");
 	printf("\n h.v.deasi clg");
 	
 	close(fd1);
